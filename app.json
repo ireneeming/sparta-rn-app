@@ -28,7 +28,8 @@
       "versionCode": 1,
       "config": {
         "googleMobileAdsAppId": ""
-      }
+      },
+      "permissions": ["ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION"]
     },
     "web": {
       "favicon": "./assets/favicon.png"
